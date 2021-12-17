@@ -121,7 +121,7 @@ You can even open pull requests in your own repository and merge them yourself. 
 
 Your collaborators can now review your edits and make suggestions.
 
-## Merging your pull request
+# Merging your pull request
 
 In this final step, you will merge your `readme-edits` branch into the `main` branch.
 
